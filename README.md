@@ -1,4 +1,5 @@
-# 小米电视 L49M5 (T962/Amlogic TXL) Root 攻坚 — 完整交接文档
+# 小米电视 L49M5 (T962/Amlogic TXL) Root 
+> 如果你能找到当前机器一样的系统固件能省很多事！本文按照无固件的最复杂情况来实现
 
 > 目标设备：小米电视 4A/4X 系列 49 寸（主板 TPD.T962.PC791，Amlogic TXL，Mali-450 MP GPU）
 > 最终结果：**已取得持久化 root**（重启后自动恢复），SELinux 永久 Permissive，setuid su 安装完毕
